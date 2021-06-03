@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation made in the name of His Maiesty of Spaine, for the search, finding out and apprehending of all such persons as shall be suspected to be sent out of Millane by Prince Mammon and his confederates, to worke the like villany in these kingdomes as they haue done in the state of Millane by their diuellish pouder a letter written from S. Lucas, concerning the iustice and execution in Millane, done vpon two of the principall conspirators in the dispersing of infectious oyntment and pouders made by the diuell ... / translated out of the Spanish.</title>
+            <author>Spain. Sovereign (1621-1665 : Philip IV)</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07533</idno><idno type="EEBO-CITATION">25194722</idno>
+  <idno type="VID">27875</idno>
+  <idno type="EEBO-PROQUEST">2248531183</idno>
+  <idno type="STC">STC 17916.7</idno>
+  <idno type="STC">ESTC S2821</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27875)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1857:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation made in the name of His Maiesty of Spaine, for the search, finding out and apprehending of all such persons as shall be suspected to be sent out of Millane by Prince Mammon and his confederates, to worke the like villany in these kingdomes as they haue done in the state of Millane by their diuellish pouder a letter written from S. Lucas, concerning the iustice and execution in Millane, done vpon two of the principall conspirators in the dispersing of infectious oyntment and pouders made by the diuell ... / translated out of the Spanish.</title>
+                  <author>Spain. Sovereign (1621-1665 : Philip IV)</author>
+                  <author>Philip IV, King of Spain, 1605-1665.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>For Nat. Butter, and Nic. Bourne,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1630.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  Spain.</term>
+               <term type="geographic_name">Spain --  History --  Philip IV, 1621-1665.</term>
+               <term type="geographic_name">Spain --  Politics and government --  1621-1665.</term>
+               <term type="geographic_name">Spain --  Proclamations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27875:1"/>
+            <pb facs="tcp:27875:1"/>
+            <p>A Proclamation made in the name of his Maiesty of <hi>Spaine,</hi> for the search, finding out and apprehending of all such persons as shall be suspected to be sent out of <hi>Millane</hi> by Prince <hi>Mammon</hi> and his confederates, to worke the like villany in these kingdomes as they haue done in the State of <hi>Millane</hi> by their diuellish Pouder.</p>
+            <p>A Letter written from <hi>S. Lucas,</hi> concerning the Iustice and execution in <hi>Millane,</hi> done vpon two of the principall Conspirators in the dispersing of infectious Oyntment and Pouders made by the diuell, and by which (it is thought) 80000, persons haue died in a short time in the said City: the number of these Infernall conspirators, is said to be aboue 10000: many of them being already ap<g ref="char:EOLhyphen"/>prehended, and in prison in so much that all the prisons in Millan are full of them, neuer the like villany heard of in the world, to destroy the race of man kind.</p>
+            <p>Al which Conspirators are said to be hired &amp; set on worke, by prince Mammon that a long time hath so reigned and domineerd in the Citty aforesaid.</p>
+            <p>Translated out of the Spanish.</p>
+            <p>Printed at <hi>London,</hi> for <hi>Nat. Butter,</hi> and <hi>Nic. Bourne.</hi> 1630.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:27875:2"/>
+            <pb n="1" facs="tcp:27875:2"/>
+            <head>The Lord <hi>Don Diego Ilustado de Mendoca,</hi> Knight of the Order of Saint <hi>Iago,</hi> Steward of the houshold to the Queene our Mistresse, Viscount of <hi>Corzana,</hi> Assistant and Campmaster generall of the Souldiers of this City of <hi>Siuill</hi> and the iurisdicti<g ref="char:EOLhyphen"/>on thereof, for the King our Lord: Maketh knowne vnto all the neighbours, dwellers, and inhabitants liuing and being in <hi>Siuill,</hi> how his Maiesty hath sent his Royall Prouision or Edict dispatched by the Lords of his Royall Counsell, which speaketh on this manner.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>On Phillip,</hi> by the Grace of God King of <hi>Castill,</hi> of <hi>Leon,</hi> of <hi>Aragon,</hi> of the two <hi>Sicilies,</hi> of <hi>Ierusalem,</hi> of <hi>Portugall,</hi> of <hi>Nauarre,</hi> of <hi>Granada,</hi> of <hi>Toledo,</hi> of <hi>Valencia,</hi> of <hi>Gallicia,</hi> of <hi>Ma<g ref="char:EOLhyphen"/>iorca,</hi> of <hi>Siuill,</hi> of <hi>Cordennia,</hi> of <hi>Cor<g ref="char:EOLhyphen"/>deua,</hi> of <hi>Corcega,</hi> of <hi>Murcia,</hi> of <hi>Iaen,</hi> Lord of <hi>Biscay,</hi> and of <hi>Molnia,</hi> &amp;c. To you <hi>Don Diego Ilustado de Mendoca,</hi> Viscount of <hi>Corzana,</hi> and our Assistant of the City of <hi>Siuill,</hi> and our Lieutenant in the same Office, and to euery one of you to whom these let<g ref="char:EOLhyphen"/>ters shall be shewed, greeting. Know yee that wee haue beene giuen to vnderstand by persons zealous of the seruice of God and of vs, that certaine ene<g ref="char:EOLhyphen"/>mies of mankinde doe conspire how to sowe and disperse those poulders or dust here, which hath cau<g ref="char:EOLhyphen"/>sed so rigorous a pestilence in the state of <hi>Millan,</hi> and in other States allyed in friendship to this Crowne; and that for the same purpose are come into these kingdomes certaine persons, whose pictures and markes be in the power or custody of vs and of the Gouernor of our Counsell. And because so enor<g ref="char:EOLhyphen"/>mous
+<pb n="2" facs="tcp:27875:3"/> and so horrible a crime could not be intended nor executed by any but by such as hauing giuen themselues to the Diuell, doe indeauour to destroy the whole race of mankinde; and seeing it is iust that they haue condigne punishment, if temporall tor<g ref="char:EOLhyphen"/>ment may suffice for so hainous and exorbitant a crime. And because it is agreeable to the seruice of God and of vs, as a thing so important for the good of our kingdomes, to vse all meanes for the searching out of those persons, who are come to per<g ref="char:EOLhyphen"/>petrate the said crime, and for their apprehension, so that no man may hide or conceale them; by the de<g ref="char:EOLhyphen"/>liberate aduise of vs and our Counsell it was agreed, that wee should send these our letters vnto you for the same reason, and we held it for good. Wherefore we will and command you, that so soone as it shal be deliuered vnto you, you cause it to be proclaimed in the said City, and in the townes and places within the iurisdiction thereof, that wee promise presently to giue, and there shall be giuen 20000. Ducats, be<g ref="char:EOLhyphen"/>sides other honors and fauours to all and euery per<g ref="char:EOLhyphen"/>son &amp; persons, as well natiues as strangers, who ei<g ref="char:EOLhyphen"/>ther personally by themselues, or by papers or letters shall manifest, declare, and bewray vnto you &amp; those other Iustices of the townes and places of that iuris<g ref="char:EOLhyphen"/>diction, the persons which are come to commit the said crime, and haue conspired so to do. And in case the person which shall make the said discouery bee one of the complices, if he come in voluntarily and giue notice of the rest, the said reward of 20000. Ducats is promised and shall be giuen him; and be<g ref="char:EOLhyphen"/>sides from that time forward we giue and grant him immunity &amp; pardon of the said crime or any other
+<pb n="3" facs="tcp:27875:3"/> crimes whatsoeuer, be they neuer so hainons or so grie<g ref="char:EOLhyphen"/>uous formerly committed by him, and we do free him and his goods from the danger of the same, to the end that no Iudge or Iudges of these Realmes may haue po<g ref="char:EOLhyphen"/>wer to proceede against him or any goods of his. And all and euery person and persons of what estate, quality or condition soeuer, which haue or shal know or vnderstand or haue heard in any sort, what persons haue conspired and do comspire to commit the said crime, or shall know or vnderstand any thing concerning the same matter, shal come and reueale the same vnto you, and to the Iustices of the said townes and places of that precinct, within two dayes after they be acquainted therewith, vpon paine of loosing their liues and goods. And forasmuch as from the first day of <hi>August</hi> of this present yeere wee haue no<g ref="char:EOLhyphen"/>tice giuen vs of many strangers entred into these our kingdomes, and that by their entrance and aboad there may bee much hazard and occasion of scarcity of bread and other prouisions; we will and command, that within three dayes after the publication of these our letters, they depart out of the said City and places of the same iurisdiction, and within 15. dayes out of these our king<g ref="char:EOLhyphen"/>domes, vpon paine of their liues, vnlesse they haue ob<g ref="char:EOLhyphen"/>tained the licence of vs or of our Councell therein to a<g ref="char:EOLhyphen"/>bide, which licences shal be giuen thē, the cause &amp; necessi<g ref="char:EOLhyphen"/>ty of their stay being examined; except those who are come to inhabit and people the Countrey, and for the same cause shall bee admitted into many other places. We doe also commaund, that of the said strangers which haue ariued since the first of <hi>August,</hi> you make a register before they departe, and that you strictly examine them of the cause of their comming into these kingdomes, without troubling them with any other iudiciall act, vn<g ref="char:EOLhyphen"/>lesse
+<pb n="4" facs="tcp:27875:4"/> out of the confession of themselues or others there resulte a necessity of a Iudiciall proceeding. And you shall giue them their certificates and Passeportes, setting down the place from whence they depart, and the markes which they beare about them. Which performe they must vp<g ref="char:EOLhyphen"/>on paine of losse of life and goods; which punishment shall irremissibly bee executed against all that shall disobey the foresaid order or any part thereof. And those Na<g ref="char:EOLhyphen"/>tiues or Strangers which shall receiue, or harbour, and shall not discouer those that haue come in since the said 1. day of <hi>August</hi> of this yeare, or shall hereafter come in, doe incurre and fall into the same punishment without possibility of remission or moderation, for so is our will and pleasure. And whereas wee are giuen to vnderstand that many strangers are newly come into these our king<g ref="char:EOLhyphen"/>domes, by reason of the sterility and want of victuals in other kingdomes and prouinces, and for feare of the con<g ref="char:EOLhyphen"/>tagion and pestilence which raigneth there, in respect of the danger they bring along with them of infecting these kingdomes with the said contagion and pestilence; wee command vnder paine of life, that none of the said new-come strangers, shal enter into any part of our kingdoms, although he be a continuall passenger, vnlesse it be found that he haue immediatly before aboade in a place known to be void of the suspicion of the Contagion forty daies together, and vnlesse hee haue obtained your licence, which you shall giue him, hauing examined the cause and necessity of his comming, and shall name therein the porte by which hee entred. And as touching those stran<g ref="char:EOLhyphen"/>gers which were in these our kingdomes before the said first day of <hi>August,</hi> it shall suffice them to get licence and certificate from the Iustices of the place where they haue resided, who are to admonish them not to enter into this our Court without the licence of vs or of our Coun<g ref="char:EOLhyphen"/>sell,
+<pb n="5" facs="tcp:27875:4"/> vpon paine of their liues. In the said prohibition are not comprized those Carriers, which come with dispat<g ref="char:EOLhyphen"/>ches from farre parts vnto our Royal person. And you shal both day and night keepe so strict and vigilant a guard vp<g ref="char:EOLhyphen"/>on that Ctty, and vpon the townes and places within that iurisdiction and vpon the parts thereto belonging, as that no stranger may enter, but with such licence and in such manner and forme as is declared and intimated in this our letter and prouision. And the same also is to be vnderstood of the naturall subiects of these kingdomes which shall come from forraigne parts. And those strangers which we command to depart these our kingdomes, must take their certificates according as they haue beene registred.</p>
+            <p>Those that shall depart out of this our Court, being <hi>Flemings</hi> of the low Countries, and high <hi>Dutche,</hi> before the <hi>Conde de Sora;</hi> Captaine of the Archers of our gard, and of our counsell of <hi>Flanders.</hi> Those of the <hi>French</hi> nation before the <hi>Conde de Castrillio,</hi> one of our Counsell of State, and of our Cabinet Counsell. And the Subiects of Great <hi>Brittaine</hi> before the <hi>Conde de la Puebla de Maestre,</hi> of our Counsell of State, the Gouernour of our Counsell of the <hi>Indies.</hi> And the <hi>Neapolitans, Sicilians, Milaneses,</hi> and <hi>Itali<g ref="char:EOLhyphen"/>ans,</hi> before <hi>Don Ioseph de Napoles,</hi> Regent of our Counsell of <hi>Italy.</hi> In which Registers &amp; certificates so be to taken out by them, it must appeare, that they haue presented them<g ref="char:EOLhyphen"/>selues with the same before the <hi>Licentiat Don Antonto Chu<g ref="char:EOLhyphen"/>macero de Sotemayer, Alcalde of this our house and Court.</hi> From whome hee is to goe, carrying his reason and cause with him in the saide certificate and register: and you shal not admit them in any other manner, but shall detaine them, till you haue giuen aduise vnto those of our Coun<g ref="char:EOLhyphen"/>fell. And wee command that no Merchant, or Factor, or any other person of what estate, quality, or condition soe<g ref="char:EOLhyphen"/>uer, to whom letters or billes shall come directed from
+<pb n="6" facs="tcp:27875:5"/> forraigne partes, of mony to be payd thereupon, may or doe pay any summe of money by vertue thereof, nor shall accept the same from the person in fauour of whom they were sent, not from any other in his name, without first making you our said assistant acquainted therewith, vpon paine that doing the contrary, such punishment shall bee inflicted vpon him and his goods, as may be answerable to his crime, and both parties shall bee accounted Com<g ref="char:EOLhyphen"/>plices and guilty in the act. And the summe being small, or the person knowne, in full satisfaction you may giue li<g ref="char:EOLhyphen"/>cence to haue it payd: and in most cases you shall aduise those of our Counsel. And we commaund you to make a register of all strangers which shall be found in that Ci<g ref="char:EOLhyphen"/>ty, or those townes and places of the same jurisdiction, setting down the time how long they haue beene here, and their busines, and that none depart thence without your licence and passeport, putting it vpon recorde in the Regi<g ref="char:EOLhyphen"/>ster, which shall be made for that purpose; for making of which Register commaunded by vs, you shall not raise any fee; and the Notary before whom it shall be past shall take a quarto onely of each person. Faile you not of doing this, vpon paine of our displeasure, and of forfeiting 20. thou<g ref="char:EOLhyphen"/>sand Marauedis to our Chamber.</p>
+            <closer>
+               <dateline>Giuen in the towne of Madrill <date>the 4 day of October 1630.</date>
+               </dateline>
+               <signed>Don Alonzo de Cabrera. <hi>The Licentiate</hi> Don Fernando Ramirez de Farina. <hi>The Licentiate</hi> Don Iohn de Cheues <hi>and</hi> Mendoca. <hi>The Licentiate</hi> Alarchon. Ilazato de los Rios Angulo, <hi>Secretary of the King our Lord, and Notary of his Chamber baue caused it to be writ<g ref="char:EOLhyphen"/>ten at his commandement, with the consent of those of his Councell. Re<g ref="char:EOLhyphen"/>gistred,</hi> Don Diego de Alarcon <hi>Chancellour.</hi> Don Diego de Alar<g ref="char:EOLhyphen"/>chon. Concordat cum originale.</signed> And the said Vicount Astistant commaunded the said Royall prouision to be proclaimed in the place of saint Francis, and in the Ex change of the said citty, as the most publi{que} and most frequen<g ref="char:EOLhyphen"/>ted places.</closer>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:27875:5"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Iuly 31. 1630.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>Sentence executed in <hi>Millan,</hi> vpon <hi>Gillermo Plateo</hi> and <hi>Iuan Xacome Mora</hi> Barber Au<g ref="char:EOLhyphen"/>thours and principall guides to those that entred the contagious plague at <hi>Millan,</hi> (both naturals of the said Citty) with a certaine powder and oyntment.</head>
+            <p>
+               <hi>IN primis,</hi> that they be carried to the accustom<g ref="char:EOLhyphen"/>ed place of execution, and tormented with burning tonges, in all places where they have in<g ref="char:EOLhyphen"/>tended their devilish project, by conveying and strawing their contagious and pestilent powder. And before the shop of the said Barber <hi>Iuan Xa<g ref="char:EOLhyphen"/>come Mora,</hi> to cutt of both their right hands, and afterwards put upon the Wheele of torment, and their to breake the bones of their armes and legs, and there to hang upon the top of the wheele 6. houres alive, and afterwards their skin to be flay<g ref="char:EOLhyphen"/>ed off them, and their bodies burnt, and the ashes throwne into the River; the house of the said <hi>Bar<g ref="char:EOLhyphen"/>bar Mora,</hi> to be raced to the ground, and in the place a pillar erected called <hi>Infamous,</hi> with this Epitaph, <hi>William Plateo</hi> and <hi>Xacome Mora,</hi> for be<g ref="char:EOLhyphen"/>ing Traytors to their Country &amp; Cittie augmen<g ref="char:EOLhyphen"/>ting the plague with inventions, were here exe<g ref="char:EOLhyphen"/>cuted. At their going to execution, to carrie before them two Trumpetts declaring the Trea<g ref="char:EOLhyphen"/>son, with a sufficient guard accompanying them, and the stage whereon they are executed, fenced about with Rayles, to prevent the wicked intent of their complices if any should intend to infect
+<pb n="8" facs="tcp:27875:6"/> the place, to ploclaime that those that are shut up in their houses upon suspition of being infected, that they come not forth to be executed untill <hi>Iuly</hi> 31.</p>
+            <p>The Governours sonne of <hi>Millan</hi> was appre<g ref="char:EOLhyphen"/>hended, whom the aforesaid <hi>Barber Mora</hi> con<g ref="char:EOLhyphen"/>fessed to be one of their complices, whereupon he was committed to safe keeping with a guard, Since it is reported that he was secretly made a<g ref="char:EOLhyphen"/>way with poyson, either by his freinds, or some of his complices.</p>
+            <p>The Senatour <hi>Mounty,</hi> is occupied night and day, onely in examining of suspitious persons, of which the prisons are full, and there are aboue 1500. persons found guiltie. The said Senatour doth the office of an Inquisitour, Notary, and Iudge, and afterwards giues accompt thereof to the Senate. Much diligence is done and with great secrecy in the aforesaid matter, thereby to prevent it from their complices notice what they are, because they are of severall Nations. It is imagined that there will be a great and severe ex<g ref="char:EOLhyphen"/>ecution. Also it is reported that now there is no Iustice in <hi>Millan</hi> Superiour or Inferiour.</p>
+            <p>The Governours sonne aboue mentioned <hi>Char<g ref="char:EOLhyphen"/>les Rose</hi> Knight, of the order of St. <hi>Iohn,</hi> a <hi>Spani<g ref="char:EOLhyphen"/>ard,</hi> nephew to the President of the <hi>Contration</hi> in <hi>Sevill,</hi> is said to have gott away and fled to <hi>Rome,</hi> with 20 others of the complices, and that the Pope delivered him to the <hi>Millanesses,</hi> and that they did expect him in <hi>Millan</hi> hourely. But this of his taking in <hi>Rome</hi> is contradicted, and it is re<g ref="char:EOLunhyphen"/>ported
+<pb n="9" facs="tcp:27875:6"/> that he and his companions escaped thence and tooke their journey for <hi>Spaine,</hi> so that now in <hi>Madred</hi> great vigilancy and search is made to ap<g ref="char:EOLhyphen"/>prehend them.</p>
+            <p>Before the execution of the aforesaid <hi>Plateo</hi> &amp; <hi>Mora,</hi> the complices had intended to undermine the prison with a determination to have blowne up their imprisoned infernall fraternitie to pre<g ref="char:EOLhyphen"/>vent their discovery. But the Mine was discove<g ref="char:EOLhyphen"/>red, and their project frustrated, and divers of them apprehended.</p>
+            <p>Also, before the execution of the aforesaid, they were demanded by the Iustices and Church<g ref="char:EOLhyphen"/>men, what preservative they had to defend them<g ref="char:EOLhyphen"/>selves from infection, and if they could make an Antidote against it. They answered that nothing could be invented of efficacy sufficient to with<g ref="char:EOLhyphen"/>stand the operation of that pestiferous oyntment: and powders, for that it was made by direction of the Divell.</p>
+            <p>There is prisoner a Master and Treasurer of the banke, for having paid aboue a 100000. duckets, to severall persons, who were hired to dispose the infection with the oyntment and powder.</p>
+            <p>The aforesaid executed persons likewise de<g ref="char:EOLhyphen"/>clared, that whosoever did once receive money to dispose this contagious venome, cannot ab<g ref="char:EOLhyphen"/>staine from putting it in practise upon every one he meetes, yea even his owne Father, For this is the compact they have made with the devill, and in the performance thereof stands their owne de<g ref="char:EOLhyphen"/>fence or Antidote, against the operation of the
+<pb n="10" facs="tcp:27875:7"/> contagion against themselves.</p>
+            <p>They have asked licence of the Commissio<g ref="char:EOLhyphen"/>ners of the Inquisition to make a preservative for the Cittie by <hi>Magicke Art</hi> but was not granted.</p>
+            <p>At a solemne Procession which they made in <hi>Millan</hi> with great Devotion, thereby to appease the wrath of God, (as saith the originall) and that he would vouchsafe to deliver the Cittie, from so great a danger, the Delinquents strawed of their pestiferous powders about the streetes, so that there dyed upon that occasion aboue 10000 persons.</p>
+            <p>They have brought to <hi>Millan</hi> horse-loades of these powders, and at the entry of the gates and to passe them by the custome house, they did enter them for gold wyer, and for such paid they custome and past cleere.</p>
+            <p>These pestiferous powders, are said to be made in<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and the generall report saith, they are made with Invocation of the Devill, who hath written upon the gate of the Presidents house in great letters, <hi>Doe what thou canst, for by the day of Saint Michaell there will be few people left.</hi>
+            </p>
+            <p>Those that spread the contagion in <hi>Millan,</hi> carrie about them little bottles of their pestilent powders, and all those they can come at the bee sprinkle, and upon whomsoever it falles onely upon the clothes, he is infected and dyeth, so that in <hi>Millan</hi> it is prohibited to ware cloakes, or long garments, because if they touch it but with the hemme of a cloake or long garment they dy.</p>
+            <pb n="11" facs="tcp:27875:7"/>
+            <p>There is aboue 10000. Confederats, that have all received money to be imployed in execut<g ref="char:EOLhyphen"/>ing this abominable and infernall act, and the number of them increaseth daily. There is alrea<g ref="char:EOLhyphen"/>dy dead in <hi>Millan</hi> aboue 80000. and there dyeth dayly aboue 1500 persons, in so much that the dead bodies lye in the houses, and none to fetch them away and give them buriall, and though the Cittie be rounded day and night with com<g ref="char:EOLhyphen"/>panies of horsemen, yet the contagion increaseth. The Clergie are all dead, and the Churches be<g ref="char:EOLhyphen"/>come desert.</p>
+            <p>In <hi>Fortona</hi> which is neere by, the contagion is not yet entred, but the people are much terrified, they have cut the wayes and keep streight watch neverthelesse, and will not suffer any to enter. <hi>Millan, Parma, Padua, Cremona</hi> and <hi>Plaventia,</hi> are wholly depopulated, and diverse other neighbo<g ref="char:EOLhyphen"/>ring townes. It is not come, to his Majesties Campe. There is not a <hi>French</hi> man dead, nor <hi>Ve<g ref="char:EOLhyphen"/>netian,</hi> neither is the Infection come to any towne of theirs. The State of <hi>Venice</hi> is part in the In<g ref="char:EOLhyphen"/>fection. The holy Father (as saith the originall) hath entred a Capitall processe or sute in law a<g ref="char:EOLhyphen"/>gainst the Devill and nominated a <hi>Fiscall</hi> or <hi>Offi<g ref="char:EOLhyphen"/>cer</hi> to accuse him, and a Procurator to defend him, and hath aggravated his punishment to in<g ref="char:EOLhyphen"/>duce him to appeare, and declare what moved him to worke so great a mischeife, and of the con<g ref="char:EOLhyphen"/>trary what will follow.</p>
+            <p>Thus much the 13 of <hi>August.</hi> 1630.</p>
+            <p>Translated out of <hi>Spanish</hi> verbatim.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="12" facs="tcp:27875:8"/>
+                  <p>I am perswaded the most part of it is true. For they write from <hi>Madrid,</hi> that there is now come to the Courte with the Protraitures and signes of some of this Confedracy which are come for <hi>Spayne,</hi> with an intent to disperse the contagion in those parts, so that great diligence is used to apprehend them, and throughout all <hi>Spayne</hi> a most strict watch, and no man stran<g ref="char:EOLhyphen"/>ger nor naturall of the Countrey can passe from Towne to Towne without a Passeport from the Major declaring his person, age, and signes, and his businesse, every Family is registred, and e<g ref="char:EOLhyphen"/>very house keeper, Innekeeper and private man is bound vpon paine of 500 Duckets, not to re<g ref="char:EOLhyphen"/>ceive one of another Towne into his house, nor without his dores, till he carrie him before the Commissary of the Inquisition to be examined. Yesterday here was a proclamation publisht, that all strangers arriving in any Ports of <hi>Spayne,</hi> since the first of <hi>August</hi> last, should within 3. dayes repayre a Shipboord, and all Shipping arriving since the said time, should within 15. dayes depart the Countrey, upon paine of death, whereunto diverse have opposed and dispatcht a<g ref="char:EOLhyphen"/>way to the Court, in the interim till the fifteene dayes be expired. There can but onely the Ma<g ref="char:EOLhyphen"/>ster and two more of a Ship come a shore, nei<g ref="char:EOLhyphen"/>ther can they come a shoare alone, but the coun<g ref="char:EOLhyphen"/>cell of this Nation, or some of the principall Merchants whom heere the Duke, in other pla<g ref="char:EOLhyphen"/>ces the Major, nominateth must fetch them a shore and carrie them aboard, and keepe them
+<pb n="13" facs="tcp:27875:8"/> company while they are a shoare. These things put all Trade to a stand. God grant all to his glory, and us grace to make a good use there<g ref="char:EOLhyphen"/>of. They report the sicknesse is at <hi>Lysbon.</hi> Yesterday here was taken a French man and tormented and shall as it is thought be burnt for making of false gold and false peeces of eight.</p>
+                  <closer>
+                     <dateline>
+                        <hi>St. Lucas</hi>
+                        <date>the 18. of <hi>October.</hi> 1630.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
